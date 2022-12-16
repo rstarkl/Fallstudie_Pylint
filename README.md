@@ -1,6 +1,6 @@
 Hallo Workshop Teilnehmer,
-am 23.12.200 findet unser Workshop zu Pylint statt. Dafür benötigt ihr Python, Pylint, Visual Studio Code und einen GitHub account. Wie ihr Python, Pylint und Visual Studio Code installieren könnt, erklären wir euch im nächsten Abschnitt.
 
+am 23.12.200 findet unser Workshop zu Pylint statt. Dafür benötigt ihr Python, Pylint, Visual Studio Code und einen GitHub account. Wie ihr Python, Pylint und Visual Studio Code installieren könnt, erklären wir euch im nächsten Abschnitt.
 
 Python
 
