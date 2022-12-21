@@ -1,5 +1,3 @@
-def greet(name):
-    unused_variable = "This variable is not used"
-    print(f"Hello, {name}!")
-    
-greet("John")
+def test_division():
+    a = 9 / 3
+    assert "No ZeroDivisionError were raised"  # [assert-on-string-literal]
