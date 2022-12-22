@@ -1,7 +1,6 @@
 [MESSAGES CONTROL]
-disable=W0603,W0123
+#entfernt bitt die checker und fügt die Message IDs ein die ihr nicht bearbeiten könnt
+disable=C0103,C0114
 
 enable= 
 
-[FORMAT]
-max-line-length=100
