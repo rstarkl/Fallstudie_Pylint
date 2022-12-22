@@ -1,0 +1,7 @@
+[MESSAGES CONTROL]
+disable=W0603,W0123
+
+enable= 
+
+[FORMAT]
+max-line-length=100
