@@ -1,6 +1,2 @@
-[MESSAGES CONTROL]
-#entfernt bitt die checker und fügt die Message IDs ein die ihr nicht bearbeiten könnt
-disable=C0103,C0114
 
-enable= 
 
